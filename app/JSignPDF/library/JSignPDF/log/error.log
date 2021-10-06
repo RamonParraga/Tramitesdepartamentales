@@ -1,0 +1,290 @@
+Waktu : 2020-04-10 12:33:11 pm
+Dokumen : C:\xampp\htdocs\documentalv2\public\documentosFirmar\DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-10 12:36:49 pm
+Dokumen : C:\xampp\htdocs\documentalv2\public\documentosFirmar\DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+==================================================================================================================
+Waktu : 2020-04-10 12:39:16 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-10 12:40:09 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-10 12:43:13 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-10 12:44:35 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-11 05:03:18 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200410-1586531135.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-12 12:36:02 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-204-20200409-1586489094.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-12 12:37:13 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-204-20200409-1586489094.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-13 10:17:55 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-13 10:19:51 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-13 10:22:36 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-15 12:24:56 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200415-1586971037.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 03:40:21 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 04:22:55 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200421-1587503088.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 04:25:24 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 04:26:46 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 04:30:44 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-04-21 04:31:12 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-203-20200413-1586812399.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================
+Waktu : 2020-06-14 12:45:11 pm
+Dokumen : C:/xampp/htdocs/documentalv2/public/documentosFirmar/DOC-CREADO-0-211-20200614-1592156631.pdf
+Pesan Error : 
+DEBUG Relaxing SSL security.
+INFO  Checking input and output PDF paths.
+WARN  Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+ERROR Problem occured
+java.lang.NullPointerException: Keystore was not loaded succesfully. Check if the keystore type, path and password are valid.
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getKeyAliasInternal(KeyStoreUtils.java:225)
+	at net.sf.jsignpdf.utils.KeyStoreUtils.getPkInfo(KeyStoreUtils.java:417)
+	at net.sf.jsignpdf.SignerLogic.signFile(SignerLogic.java:149)
+	at net.sf.jsignpdf.Signer.signFiles(Signer.java:242)
+	at net.sf.jsignpdf.Signer.main(Signer.java:137)
+INFO  Finished: Creating of signature failed.
+==================================================================================================================

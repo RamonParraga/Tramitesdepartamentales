@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="font-size: 15px; text-align: left;">De mi consideración: <br /><br /><br /></p>
+<p><strong>INFORME MENSUAL DE ACTIVIDADES</strong></p>
+<table width="671">
+<tbody>
+<tr>
+<td width="236">
+<p><strong>SUBDIRECCIÓN</strong></p>
+</td>
+<td colspan="3" width="435">
+<p>Subdirección de Tecnologías del GADM Chone</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p><strong>DIRIGIDO A:</strong></p>
+</td>
+<td width="170">
+<p>Ing. Luis Vera Palacios</p>
+</td>
+<td width="85">
+<p><strong>CARGO:</strong></p>
+</td>
+<td width="180">
+<p>Subdirector de Tecnologías del GADM Chone</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p><strong>RESPONSABLE</strong></p>
+</td>
+<td width="170">
+<p>Ing. Villa Marcillo Jean Carlos</p>
+</td>
+<td width="85">
+<p><strong>CARGO:</strong></p>
+</td>
+<td width="180">
+<p>Técnico de sistemas informáticos.</p>
+</td>
+</tr>
+<tr>
+<td width="236">
+<p><strong>MES DE DESARROLLO</strong></p>
+</td>
+<td colspan="3" width="435">
+<p>Del 18 al 31 de diciembre del 2019</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong>ANTECEDENTES</strong></p>
+<p>El presente proyecto tiene como finalidad automatizar en su mayor parte los tramites por ventanillas que se realizar de forma manual en el GADM Municipal mismos que son solicitados de manera presencial por los ciudadanos, generando un ambiente de desconformidad en la ciudadanía y saturación de trabajo hacia los funcionarios públicos de la institución.</p>
+<p>Para solventar la problemática antes plantada se optó por desarrollar un portal en línea para realizar la solicitud de certificados tales como Avalúos, Línea de Fabrica, Uso de Suelo, permisos Ambiental, permisos de Funcionamiento entre otros, mismos que podrán ser solicitador por los ciudadanos de forma fácil, rápida y cómoda. Además, para la gestión de las solicitudes realizadas por los ciudadanos desde el Portal en Línea se desarrollará un sistema Intranet mismo que será manipulado por los funcionarios públicos del GADM Municipal.</p>
+<p style="font-size: 15px; text-align: left;"><br /><br /><br /><span style="margin-top: 100px;">Con sentimientos de distinguida consideración.</span></p>
+</body>
+</html>

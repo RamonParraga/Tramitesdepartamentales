@@ -1,0 +1,63 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "axios": "^0.17",
+        "bootstrap-sass": "^3.3.7",
+        "cross-env": "^5.1",
+        "jquery": "^3.2",
+        "laravel-mix": "^1.0",
+        "lodash": "^4.17.4",
+        "vue": "^2.5.7"
+    },
+
+
+  "name": "gentelella",
+  "version": "1.4.0",
+  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puikinsh/gentelella.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "html",
+    "template",
+    "admin",
+    "bootstrap",
+    "theme",
+    "backend",
+    "responsive"
+  ],
+  "author": "Aigars Silkalns",
+  "contributors": [
+    "Christian Esperar"
+  ],
+  "license": "MIT",
+  "main": "build/js/custom.min.js",
+  "bugs": {
+    "url": "https://github.com/puikinsh/gentelella/issues"
+  },
+  "homepage": "https://github.com/puikinsh/gentelella#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-uglify": "^1.5.3"
+  }
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="font-size: 15px; text-align: left;">De mi consideración: <br /><br /><br /><br /></p>
+<table>
+<tbody>
+<tr>
+<td width="151">
+<p><strong>FECHA</strong></p>
+</td>
+<td width="189">
+<p><strong>TAREA</strong></p>
+</td>
+<td width="330">
+<p><strong>ACTIVIDADES</strong></p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>18/12/2019</p>
+</td>
+<td width="189">
+<p>Preparación del entorno de trabajo.</p>
+</td>
+<td width="330">
+<p>·      Registro en el repositorio de GitHub.</p>
+<p>·      Instalación de recursos (ID de desarrollo, servidores locales y Sistema Gestor de base de datos).</p>
+<p>·      Clonación de proyectos Servicios en línea e Intranet en el ambiente de desarrollo local.</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>18/12/2019 -</p>
+<p>20/12/2019</p>
+</td>
+<td width="189">
+<p>Catálogo de Establecimientos - Módulo de Registro de Establecimiento</p>
+</td>
+<td width="330">
+<p>·      Análisis y normalización de estructura de datos para la gestión del catálogo de establecimientos.</p>
+<p>·      Diseño de interfaz del módulo.</p>
+<p>·      Codificación del Back-End para el registro de establecimientos.</p>
+<p>·      Pruebas del módulo.</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>23/12/2019 – 24/12/2019</p>
+</td>
+<td width="189">
+<p>Gestión de Agenda - Modulo Agenda de Inspector</p>
+</td>
+<td width="330">
+<p>·      Diseño de interfaz del calendario de turnos.</p>
+<p>·      Codificación de reprogramación de turnos.</p>
+<p>·      Codificación de reasignación de turno.</p>
+<p>·      Codificación de atención de turnos.</p>
+<p>·      Pruebas del módulo de agendamiento.</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>25/12/2019</p>
+</td>
+<td width="189">
+<p>FERIADO NACIONAL</p>
+</td>
+<td width="330">
+<p>ASUETO</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>26/12/2019</p>
+</td>
+<td width="189">
+<p>Gestión de Permisos – Asignación de Múltiples Roles a Usuarios de Intranet.</p>
+</td>
+<td width="330">
+<p>·      Análisis y normalización de estructura de datos para la gestión de múltiples roles de usuario.</p>
+<p>·      Codificación de módulo de asignación de roles a usuarios.</p>
+<p>·      Pruebas del módulo de asignación de roles a usuarios.</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>27/12/2019</p>
+</td>
+<td width="189">
+<p>Gestión de Permisos – Selección de roles</p>
+</td>
+<td width="330">
+<p>·      Diseño de la interfaz de selección de rol de usuario.</p>
+<p>·      Codificación del módulo de selección de rol de usuario.</p>
+<p>·      Pruebas del módulo de selección de rol de usuario.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 15px; text-align: left;"><br /><br /><span style="margin-top: 100px;">Con sentimientos de distinguida consideración.</span></p>
+</body>
+</html>

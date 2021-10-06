@@ -1,0 +1,75 @@
+.div_BandEntrLeft{
+    border: solid 1px #ddd !important;
+    width: max-content;
+    border-radius: 50%;
+    padding: 8px;
+    float: left;
+}
+
+.div_BandEntrLeft i{
+    font-size: 20px !important;
+}
+
+.div_BandEntrRight{
+    margin-left:20px; 
+    float: left;
+}
+
+.BE_certificado .solic_info{
+    margin-right: 10px;
+    font-weight: initial;
+}
+
+.BE_certificado span{
+    font-weight: initial;
+}
+
+.BE_certificado b{
+    margin-right: 2px;
+}
+
+
+.cmb_filtra{
+    margin-top: 2px;
+    border-radius: 5px;
+    font-size: 13px;
+    color: #73879C;
+    height: 30px;
+    margin-left: 8px;
+    float: left;
+}
+
+.badge-warning{
+    color: #212529 !important;
+    background-color: #ffc107 !important;
+}
+
+.badge-info{
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+}
+
+/* estilos para escritorio */
+@media screen and (min-width: 767px) {
+    .cmb_filtra{
+        /* width: max-content; */
+        width: 48%;
+    }
+}
+
+/* estilos solo para telefonos */
+@media screen and (max-width: 767px){
+    .div_BandEntrLeft{
+        display: none;
+    }
+
+    .div_BandEntrRight{
+        margin-left: 0 !important;
+    }
+
+    .cmb_filtra{
+        margin-bottom: 10px;
+        height: 38px;
+    }
+
+}

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="font-size: 15px; text-align: left;"><span style="font-size: 12pt;">De mi consideración: </span><br /><br /></p>
+<p style="font-size: 15px; text-align: justify;"><span style="font-size: 12pt;">En alcance al Memorando Nro. IESS-HB-CH-DA-2020-0800-M, relacionado con las</span><br /><span style="font-size: 12pt;">Pancartas Informativas, transcribo las siguines disposiciones emitidas por la Dirección</span><br /><span style="font-size: 12pt;">Nacional de Comunicación Social del IESS, en Memornado Nro.</span><br /><span style="font-size: 12pt;">IESS-DNCS-2020-0261-M:</span><br /><span style="font-size: 12pt;">“Por lo tanto, solicito a ustedes que, en los exteriores de todas las Unidades Médicas, de</span><br /><span style="font-size: 12pt;">cada una de las provincias que ustedes lideran, se coloquen pancartas informativas, sobre</span><br /><span style="font-size: 12pt;">el adecuado lavado de manos. Además que, se socialice con el personal que trabaja en</span><br /><span style="font-size: 12pt;">seguridad, en los edificios correspondientes, sobre este tema, ya que ellos, en muchos de</span><br /><span style="font-size: 12pt;">los casos, son el primer contacto con nuestros asegurados; en ese sentido, como directores</span><br /><span style="font-size: 12pt;">provinciales, deberán ser responsables que, a cada uno de quienes conforman este</span><br /><span style="font-size: 12pt;">personal de seguridad, les llegue dichos volantes informativos para que, posterior,</span><br /><span style="font-size: 12pt;">entreguen a los asegurados y ciudadanía en general, que llegue a nuestros edificios y/o</span><br /><span style="font-size: 12pt;">unidades médicas correspondientes.</span><br /><br /><br /><span style="margin-top: 100px; font-size: 12pt;">Con sentimientos de distinguida consideración.</span></p>
+</body>
+</html>
